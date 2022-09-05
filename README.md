@@ -7,3 +7,6 @@
 
 This repositery is for practice.
 
+for system configuration: 
+git config --global user.name "John Doe"
+git config --global user.email johndoe@example.com
